@@ -70,5 +70,41 @@
     "rating": "0.0",
     "synopsis": "Sinopsis belum tersedia.",
     "chapters": []
+  },
+  {
+    "manga_id": "the-academy’s-sashimi-sword-master",
+    "id": "the-academy’s-sashimi-sword-master",
+    "title": "The Academy’s Sashimi Sword Master",
+    "category": "Action",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Action/The Academy’s Sashimi Sword Master.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=The%20Academy%E2%80%99s%20S",
+    "status": "Ongoing",
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
+  },
+  {
+    "manga_id": "pick-me-up,-infinite-gacha",
+    "id": "pick-me-up,-infinite-gacha",
+    "title": "Pick Me Up, Infinite Gacha",
+    "category": "Comedy",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Comedy/Pick%20Me%20Up%2C%20Infinite%20Gacha.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=Pick%20Me%20Up%2C%20Inf",
+    "status": "Ongoing",
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
+  },
+  {
+    "manga_id": "academy_s-genius-swordmaster",
+    "id": "academy_s-genius-swordmaster",
+    "title": "Academy_s Genius Swordmaster",
+    "category": "Echi",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Echi/Academy_s%20Genius%20Swordmaster.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=Academy_s%20Geniu",
+    "status": "Ongoing",
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
   }
 ]
