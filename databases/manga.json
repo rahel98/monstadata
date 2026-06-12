@@ -1,44 +1,74 @@
-/* Version Tracking: mangaJSON V1.0 Rev 0 */
 [
   {
-    "manga_id": "a-dragonslayers-peerless-regression",
-    "title": "A Dragonslayer’s Peerless Regression",
-    "alternative_title": "Yongsaljaui Mugong Hoegwi, The Peerless Regression of a Dragon Slayer",
+    "manga_id": "the-academy’s-sashimi-sword-master",
+    "id": "the-academy’s-sashimi-sword-master",
+    "title": "The Academy’s Sashimi Sword Master",
+    "category": "Action",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Action/The Academy’s Sashimi Sword Master.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=The%20Academy%E2%80%99s%20S",
     "status": "Ongoing",
-    "author": "Woo Gak",
-    "artist": "Studio Inus",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Martial Arts",
-      "Shounen"
-    ],
-    "type": "Manhwa",
-    "release_year": 2024,
-    "rating": "4.8",
-    "synopsis": "Setelah pertempuran epik melawan naga tirani yang menghancurkan dunia, sang Dragonslayer terkuat mendapati dirinya kembali ke masa lalu, ke masa sebelum semua tragedi dimulai. Berbekal ingatan masa depan dan teknik bela diri yang tiada tanding, ia bertekad untuk melampaui batas kemampuannya yang dulu demi melindungi semua yang pernah hilang dan memastikan sang naga tidak akan pernah bangkit kembali.",
-    "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
-    "chapters": [
-      {
-        "chapter_number": "1.0",
-        "chapter_title": "Prologue: Kehancuran dan Awal Baru",
-        "images": [
-          "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/a-dragonslayers-peerless-regression/ch-1.0/001.jpg",
-          "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/a-dragonslayers-peerless-regression/ch-1.0/002.jpg",
-          "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/a-dragonslayers-peerless-regression/ch-1.0/003.jpg",
-          "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/a-dragonslayers-peerless-regression/ch-1.0/004.jpg"
-        ]
-      },
-      {
-        "chapter_number": "2.0",
-        "chapter_title": "Kebangkitan Sang Naga",
-        "images": [
-          "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/a-dragonslayers-peerless-regression/ch-2.0/001.jpg",
-          "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/a-dragonslayers-peerless-regression/ch-2.0/002.jpg",
-          "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/a-dragonslayers-peerless-regression/ch-2.0/003.jpg"
-        ]
-      }
-    ]
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
+  },
+  {
+    "manga_id": "the-demon-king-overrun-by-heroes",
+    "id": "the-demon-king-overrun-by-heroes",
+    "title": "The Demon King Overrun by Heroes",
+    "category": "Action",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Action/The%20Demon%20King%20Overrun%20by%20Heroes.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=The%20Demon%20King%20",
+    "status": "Ongoing",
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
+  },
+  {
+    "manga_id": "only-i-have-an-ex-grade-summon",
+    "id": "only-i-have-an-ex-grade-summon",
+    "title": "Only I Have an EX-Grade Summon",
+    "category": "Comedy",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Comedy/Only%20I%20Have%20an%20EX-Grade%20Summon.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=Only%20I%20Have%20an%20",
+    "status": "Ongoing",
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
+  },
+  {
+    "manga_id": "pick-me-up,-infinite-gacha",
+    "id": "pick-me-up,-infinite-gacha",
+    "title": "Pick Me Up, Infinite Gacha",
+    "category": "Comedy",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Comedy/Pick%20Me%20Up%2C%20Infinite%20Gacha.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=Pick%20Me%20Up%2C%20Inf",
+    "status": "Ongoing",
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
+  },
+  {
+    "manga_id": "a-cadet-becomes-a-prophet",
+    "id": "a-cadet-becomes-a-prophet",
+    "title": "A Cadet Becomes a Prophet",
+    "category": "Echi",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Echi/A%20Cadet%20Becomes%20a%20Prophet.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=A%20Cadet%20Becomes",
+    "status": "Ongoing",
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
+  },
+  {
+    "manga_id": "academy_s-genius-swordmaster",
+    "id": "academy_s-genius-swordmaster",
+    "title": "Academy_s Genius Swordmaster",
+    "category": "Echi",
+    "download_url": "https://raw.githubusercontent.com/rahel98/monstadata/main/Echi/Academy_s%20Genius%20Swordmaster.cbz",
+    "cover_url": "https://placehold.co/300x400/222/39ff14?text=Academy_s%20Geniu",
+    "status": "Ongoing",
+    "rating": "0.0",
+    "synopsis": "Sinopsis belum tersedia.",
+    "chapters": []
   }
 ]
